@@ -2,7 +2,8 @@
   ![Github license] (https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description:
-  Generates a README of the user's project by asking a series of questions about the project such as "What command should be run for testing?", or "What information can you provide about the usage of your project?" so the user can provide information about the funcionality of their project.
+
+  Generates a professional README for the user's project by asking a series of questions about the project such as the title, description, and usage so the user can provide information about the functionality of their project.
 
   ## Table of Contents:
 
@@ -15,14 +16,16 @@
   * [Tests](#tests)
 
   * [Questions](#questions)
+    
+  * [license](#license)
 
+
+  =============================================================================
   
-* [license](#license)
-
-
   ## Installation
 
   Run the following command(s) to install the necessary dependencies:
+
   npm i
 
   ## Usage
@@ -42,8 +45,9 @@
   ## Questions
 
   For any questions, please contact me using the information below:
-  GitHub: [Tlatimore](https://gitgub.com/Tlatimore)
+  GitHub: [tlatimore](https://gitgub.com/tlatimore)
   Email: tlatimore0551@yahoo.com
 
   ## License
-This project is licensed by the MIT license.
+    
+  This project is licensed under the MIT license.
