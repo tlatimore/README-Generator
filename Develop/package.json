@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates a professional README for a new project",
   "main": "index.js",
   "type": "module",
   "scripts": {
