@@ -50,7 +50,7 @@ function generateMarkdown(data) {
   * [Questions](#questions)
     ${renderLicenseLink(data.license)}
 
-  =============================================================================
+  ===========================================================================
   
   ## Installation
 
