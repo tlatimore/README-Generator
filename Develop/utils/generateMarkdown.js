@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'None'){
-    return '\n* [license](#license)\n';
+    return '\n  * [license](#license)\n';
   }
   return '';
 }
@@ -21,7 +21,9 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if(license !== 'None'){
-    return `## License\nThis project is licensed by the ${license} license.`;
+    return `## License
+    
+  This project is licensed under the ${license} license.`;
   }
   return '';
 }
@@ -32,6 +34,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ## Description:
+
   ${data.projectDescription}
 
   ## Table of Contents:
@@ -45,12 +48,14 @@ function generateMarkdown(data) {
   * [Tests](#tests)
 
   * [Questions](#questions)
+    ${renderLicenseLink(data.license)}
 
-  ${renderLicenseLink(data.license)}
-
+  =============================================================================
+  
   ## Installation
 
   Run the following command(s) to install the necessary dependencies:
+
   ${data.installation}
 
   ## Usage
