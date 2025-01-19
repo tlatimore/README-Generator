@@ -3,7 +3,7 @@
 
   ## Description:
 
-    Generates a professional README for the user's project by asking a series of questions about the project such as the title, description, and usage so the user can provide information about the functionality of their project.
+  Generates a professional README for the user's project by asking a series of questions about the project such as the title, description, and usage so the user can provide information about the functionality of their project.
 
   ## Table of Contents:
 
@@ -30,11 +30,11 @@
 
   ## Usage
 
-    The usage of this project is for programmers that need to generate a file that provides information about the functionality of the project or a README
+  The usage of this project is for programmers that need to generate a file that provides information about the functionality of the project or a README
 
   ## Contribution
 
-    Contact me for more regarding contribution
+  Contact me for more regarding contribution
 
   ## Tests
 

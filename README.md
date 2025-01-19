@@ -48,6 +48,9 @@
   GitHub: [tlatimore](https://gitgub.com/tlatimore)
   Email: tlatimore0551@yahoo.com
 
+  ## Walkthrough Video
+  https://drive.google.com/file/d/1E2gr0wcRg5zTgiyhHqwOu7EQ6UxEmaPc/view?usp=drive_link
+
   ## License
     
   This project is licensed under the MIT license.
